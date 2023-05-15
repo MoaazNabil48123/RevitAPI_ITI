@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+	<AddIn Type="Application">
+		<Name>finalProject</Name>
+		<Assembly>finalProject.dll</Assembly>
+		<AddInId>
+			8FBB3A9E-8C73-473F-84DC-059D731CFC35
+		</AddInId>
+		<FullClassName>finalProject.TabCreator.TabCreator</FullClassName>
+		<VendorId>ITI</VendorId>
+		<VendorDescription>@ITI</VendorDescription>
+	</AddIn>
+
+
+</RevitAddIns>
